@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elemen Visual</title>
+    <link rel="icon" type="image/x-icon" href="/img/camera.png">
+</head>
+<body>
+    <h1 style="background-color:darkslategray; font-family: poppins; color:white; text-align: center;">Elemen Visual</h1>
+    <img src="/img/elemen visual.jpg" style="float: left; padding: 10px">
+    </p style="font-size: large;"> Elemen merupakan unsur-unsur dasar yang telah digunakan oleh para fotografer, 
+    pelukis atau mereka yang menekuni bidang seni rupa untuk menciptakan karya – karya 
+    mereka. Kelima unsur ini sudah dikenal sejak dulu, hanya gaya penggunaan yang berubah 
+    menurut waktu sesuai dengan peralatan yang tersedia
+    </p>
+</body>
+</html>
